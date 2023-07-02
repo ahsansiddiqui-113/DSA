@@ -1,0 +1,6 @@
+COSC 1P02
+111111	Ima First	100
+222222	Mary Marvelous	90
+333333	Pretty Good	80
+444444	Im Ok	70
+555555	Joe Average	60

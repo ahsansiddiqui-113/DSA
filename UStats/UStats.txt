@@ -1,0 +1,8 @@
+4	5
+Acadia	Brock	McMaster	Laurentian
+Math	Business	Comp. Sci.	Biology	French
+162	15	237	35
+836	182	987	243
+263	91	321	110
+743	432	648	0
+42	59	117	57
